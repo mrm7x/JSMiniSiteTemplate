@@ -55,6 +55,17 @@ footer .social>a:hover{
     color: rgb(277,76,38);
 }
 
+.checklist >li i{
+    color: orangered;
+}
+
+code[class*="language"],
+    pre[class*="language-"]{
+        white-space: pre-wrap;
+        word-break: break-all;
+        word-wrap: break-word;
+    }
+
 .cssicon{
     color: rgb(33,76,229)
 }
